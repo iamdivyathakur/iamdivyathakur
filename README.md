@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Divya Thakur from Karnataka, India
-- 👀 I code in Java , HTML, CSS, Javascript.
+- 👀 I code in Java , HTML, CSS, Javascript, Angular.
 - 🌱 I’m currently learning DSA using Java
